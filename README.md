@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swapnil-Datta
 - 👀 I’m interested in A.I. and M.L.
-- 🌱 I’m currently learning C
+- 🌱 I know C, C++, Java and Python
 - 💞️ I’m looking to collaborate on A.I. security
 - 📫 How to reach me - sumoasn@gmail.com
 
